@@ -5,7 +5,7 @@ class StyledTittle extends StatelessWidget {
 
 @override
 Widget build(context) {
-  return const Text('Hello World, el axel es gay',
+  return const Text('Hello World, el coco es gay',
               style: TextStyle(
                 fontSize: 28,
                 color: Colors.black
